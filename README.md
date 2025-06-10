@@ -1,6 +1,6 @@
-# AutoWalker – Blender Plugin
+# AutoWalker – Blender Addon
 
-AutoWalker is a Blender plugin designed to automatically add movement to walk or run animations. It simplifies the process of animating forward motion for characters based on existing walk/run cycles. Just specify the bones, animation range, and a target object to generate a natural walk path.
+AutoWalker is a Blender addon designed to automatically add movement to walk or run animations. It simplifies the process of animating forward motion for characters based on existing walk/run cycles. Just specify the bones, animation range, and a target object to generate a natural walk path.
 
 ## Features
 Automatically adds forward movement to looping walk/run animations.
@@ -14,7 +14,7 @@ Use target objects (like Empties) as the destination for your character's moveme
 Simple UI integrated into Blender's side panel.
 
 ## Installation
-Download the plugin .zip file.
+Download the .zip file.
 
 Open Blender and go to Edit > Preferences > Add-ons.
 
