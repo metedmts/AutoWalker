@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "auto_walker"
+version = "1.0.0"
+name = "Auto Walker"
+tagline = "An addon to automaticly add position keyframes to walk cycles"
+maintainer = "Mete D. // @metevfx on X and Discord"
+type = "add-on"
+blender_version_min = "3.6.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+files = "Import/export saved graphs from/to disk"
