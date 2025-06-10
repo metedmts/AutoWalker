@@ -29,7 +29,7 @@ Enable the add-on by checking the box next to its name.
 
 - Start Point / End Point: Pick if the movement starts or ends at the original point.
 
-- Target Object: Choose an Empty or another object to define the direction and distance of the movement if nothing is selected it will apply to armature itself.
+- Target Object: Choose an Empty or another object to add the movement if nothing is selected it will apply to armature itself.
 
 - Click Auto Walk to apply movement.
 
