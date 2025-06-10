@@ -19,9 +19,9 @@ Click Install, select the downloaded file, and click Install Add-on.
 Enable the add-on by checking the box next to its name.
 
 ## How to Use
-- Foot Bone: Enter the name of the foot bone used in your walk cycle (e.g., R_Foot).
+- Foot Bone: Enter the name of one of the foot bones used in your walk cycle (e.g., R_Foot).
 
-- Root Bone: Enter the name of the armature’s root bone (e.g., Root).
+- Root Bone: Enter the name of the armature’s root bone(or any stationary bone) (e.g., Root).
 
 - Head / Tail: Pick where to get the location data from bones(Default Head should work if you have any issues you can switch to Tail).
 
